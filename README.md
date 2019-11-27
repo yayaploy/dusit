@@ -146,8 +146,8 @@ html {
 <a href="20191126_012.JPG" data-lightbox="abc"><img src="20191126_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191126_013.JPG" data-lightbox="abc"><img src="20191126_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191126_014.JPG" data-lightbox="abc"><img src="20191126_014.JPG" alt="サンプル画像" width="900" /></a>
-
-<a href="20190704_004.jpg" data-lightbox="abc"><img src="20190704_004.jpg" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20190704_004.jpg" data-lightbox="abc"><img src="20190704_004.jpg" alt="サンプル画像" width="900" /></a>-->
 <a href="20190704_005.jpg" data-lightbox="abc"><img src="20190704_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190704_006.jpg" data-lightbox="abc"><img src="20190704_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190704_007.jpg" data-lightbox="abc"><img src="20190704_007.jpg" alt="サンプル画像" width="900" /></a>
